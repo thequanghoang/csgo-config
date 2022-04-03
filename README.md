@@ -8,6 +8,6 @@
 > clean to default config (reset config): 
 > - path: "C:\Program Files (x86)\Steam\userdata\430607874\730\local\cfg"
 
-#extra:
+### extra:
 > - path default: "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"
 > - command line in game: exec [file_name]
